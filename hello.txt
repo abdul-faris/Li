@@ -1,4 +1,8 @@
 Hello file created
 
+<<<<<<< HEAD
 
 modified to Hello to new 
+=======
+modified Hello and the change the field
+>>>>>>> 26002c3737e1da4b7b7e78d71cd91c7b05eea9b1
